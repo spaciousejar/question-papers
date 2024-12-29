@@ -1,8 +1,8 @@
 # Question Papers of DBATU University
 
-Welcome to the repository for the question papers of DBATU University. This repository aims to provide students with easy access to past question papers, helping them in their exam preparations and studies.
+Welcome to the DBATU University question papers repository. Here, students can easily access a collection of past papers to aid in exam preparation. Papers are organized by year and semester for quick navigation. We encourage contributions of additional materials like notes and practice questions to enhance this resource for everyone.
 
-The papers are organized by year and semester for easy navigation.
+Happy studying, and best of luck in your exams!
 
 
 
