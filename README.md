@@ -1,6 +1,6 @@
-# Question Papers of DBATU University (Electronics and Computer Engineering)
+# Question Papers of DBATU University
 
-Welcome to the repository for the question papers of DBATU University, specifically for the Electronics and Computer Engineering department. This repository aims to provide students with easy access to past question papers, helping them in their exam preparations and studies.
+Welcome to the repository for the question papers of DBATU University. This repository aims to provide students with easy access to past question papers, helping them in their exam preparations and studies.
 
 The papers are organized by year and semester for easy navigation.
 
