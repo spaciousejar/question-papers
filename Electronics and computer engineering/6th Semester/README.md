@@ -1,1 +1,1 @@
-#Question papers of 6th semester
+# Question papers of 6th semester (6-sem)
