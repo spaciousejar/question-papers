@@ -5,12 +5,15 @@ Welcome to the repository for the question papers of the 4th semester in Electro
 
 In this repository, you will find materials covering a variety of subjects included in the 4th semester curriculum, such as:
 
-- Data Structures and Algorithms
-- Computer Networks
-- Digital Signal Processing
-- Microcontrollers and Embedded Systems
-- Software Engineering
-- Engineering Mathematics-IV
+- Python Programming
+- Database Management System
+- Basic Human Rights
+- Probability Theory and Random Processes
+- Professional Elective Courses – I
+- Microcontroller and Advanced Processor
+- Data Analysis
+- Electromagnetic Engineering and Wave Propagation
+- Linux OS
 
 We encourage students to utilize these resources effectively and to contribute any additional materials they may have, such as notes, tutorials, or practice questions, to help their peers succeed. Your contributions are invaluable in creating a supportive learning environment. Happy studying!
 # End of Selection
